@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+<img width="1919" height="1078" alt="final before" src="https://github.com/user-attachments/assets/98864632-5321-40dd-ba16-829f7ac85fd9" />
 
 
 ### Procedure for Association Rules:
@@ -53,5 +54,8 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1919" height="1079" alt="final output" src="https://github.com/user-attachments/assets/ad5b773a-c2b5-4338-84c8-122491bad378" />
+
 
 ### RESULT: 
+Thus the program to generate associate rules for the employee dataset using Apriori Algorithm has been accomplished successfully.
